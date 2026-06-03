@@ -1,10 +1,10 @@
 # Trabajo Práctico Swing
 
-Proyecto desarrollado en Java Swing para practicar los ejemplos del apunte `Swing_presentación_completa1.pdf`.
+Proyecto desarrollado en Java Swing para practicar los ejemplos del apunte `Swing presntacion completa`.
 
 ## Alumno
 
-Completar con nombre y apellido.
+Juan Tartaglia
 
 ## Descripción
 
@@ -19,18 +19,6 @@ El proyecto contiene clases individuales organizadas por tema. Cada clase toma c
 - `dialogos`: cuadros predefinidos con `JOptionPane`.
 - `graficos`: dibujo personalizado usando `paintComponent(Graphics g)`.
 - `mvc`: ejemplo simple usando Modelo, Vista y Controlador.
-
-## Cómo abrirlo en NetBeans
-
-1. Abrir NetBeans.
-2. Ir a `File > Open Project`.
-3. Seleccionar la carpeta `TrabajoPracticoSwing`.
-4. Abrir el proyecto Maven.
-5. Ejecutar la clase principal:
-
-```text
-trabajopracticoswing.TrabajoPracticoSwingApplication
-```
 
 ## Cómo ejecutarlo por consola
 
@@ -55,7 +43,3 @@ mvn clean compile exec:java
 - `DialogosDemo`: cuadros de diálogo con `JOptionPane`.
 - `VentanaSolDemo` y `PanelSol`: dibujo personalizado.
 - `ContadorMVCDemo`: ejemplo básico de arquitectura MVC.
-
-## Observación
-
-El alcance se mantuvo simple y académico: el objetivo principal es demostrar los conceptos del apunte sin convertir el trabajo en una aplicación demasiado grande.
