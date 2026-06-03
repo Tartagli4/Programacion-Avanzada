@@ -31,12 +31,6 @@ Proyecto Java Swing desarrollado para cargar y validar un formulario de contacto
 - DNI y Pasaporte son excluyentes: cuando se completa uno, el otro se deshabilita.
 - Al validar, se informa si existen errores o si la carga es correcta.
 
-## Cómo ejecutar en NetBeans
-
-1. Abrir NetBeans.
-2. Ir a **File > Open Project**.
-3. Seleccionar la carpeta `TPFormularioSwing`.
-4. Ejecutar el proyecto desde la clase principal `edu.uda.tpformulario.Main`.
 
 ## Clase principal
 
